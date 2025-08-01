@@ -23,7 +23,7 @@ This project focuses on removing noise from medical images using both traditiona
 
 | Noisy Image | Filtered Image | Autoencoder Output |
 |-------------|----------------|---------------------|
-| ![Noisy](noised_image.png) | ![Filtered](autoencoded_image.png) | ![Denoised]( autoencoded_image.png) |
+| ![Noisy](noised_image.png) | ![Filtered](filtered_image.png) | ![Denoised]( autoencoded_image.png) |
 
 ## 🚀 Future Improvements
 - Use real-world medical datasets (CT, MRI, X-ray)  
