@@ -16,7 +16,7 @@ This project focuses on removing noise from medical images using both traditiona
 - Evaluation using PSNR, MSE metrics
 
 ## ▶️ Try it on Google Colab
-[🔗 Open in Colab]([https://colab.research.google.com/YOUR_NOTEBOOK_LINK](https://colab.research.google.com/drive/1VRdddGy5Gga68sWWc3kSNrMXTX2zgS0x?usp=sharing))
+[🔗 Open in Colab](https://colab.research.google.com/YOUR_NOTEBOOK_LINK)
 
 
 ## 🖼️ Output Samples
@@ -24,8 +24,7 @@ This project focuses on removing noise from medical images using both traditiona
 
 | Noisy Image | Filtered Image | Autoencoder Output |
 |-------------|----------------|---------------------|
-| ![Noisy](images/noisy_sample.png) | ![Filtered](images/filtered_sample.png) | ![Denoised](<img width="3158" height="1589" alt="image" src="https://github.com/user-attachments/assets/d90832bb-7c6d-4b01-9168-43a2b5372e2a" />
-) |
+| ![Noisy](images/noisy_sample.png) | ![Filtered](images/filtered_sample.png) | ![Denoised](images/denoised_sample.png) |
 
 ## 🚀 Future Improvements
 - Use real-world medical datasets (CT, MRI, X-ray)  
