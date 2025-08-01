@@ -15,7 +15,6 @@ This project focuses on removing noise from medical images using both traditiona
 - Visualize and compare results: Noisy vs Filtered vs Autoencoder output  
 - Evaluation using PSNR, MSE metrics
 
-## ▶️ Try it on Google Colab
 ## ▶️ Try it on Google Colab  
 [🔗 Open in Colab](https://colab.research.google.com/drive/1VRdddGy5Gga68sWWc3kSNrMXTX2zgS0x?usp=sharing)
 
