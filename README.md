@@ -34,4 +34,4 @@ This project focuses on removing noise from medical images using both traditiona
 **Prabhakar Rayal**  
 B.Tech CSE | Graphic Era Hill University  
 📍 Rishikesh, Uttarakhand, India  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/Prabhakarrayal))
