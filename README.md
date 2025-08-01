@@ -16,7 +16,7 @@ This project focuses on removing noise from medical images using both traditiona
 - Evaluation using PSNR, MSE metrics
 
 ## ▶️ Try it on Google Colab
-[🔗 Open in Colab](https://colab.research.google.com/YOUR_NOTEBOOK_LINK)
+[🔗 Open in Colab]([https://colab.research.google.com/YOUR_NOTEBOOK_LINK](https://colab.research.google.com/drive/1VRdddGy5Gga68sWWc3kSNrMXTX2zgS0x?usp=sharing))
 
 
 ## 🖼️ Output Samples
